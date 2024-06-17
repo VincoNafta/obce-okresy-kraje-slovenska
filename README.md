@@ -4,6 +4,8 @@ Obce, okresy a kraje v SR
 Tento repozitár vznikol pre potreby všetkých ľudí čo potrebujú do svojej
 databázy zoznam všetkých Slovenských obcí, okresov a krajov.
 
+Repozitár vznikol forkom a úpravou pôvodného databázového modelu s použiťím Štatistickej územenej jednotky (NUTS / RŠÚJ)
+
 
 V adresári MySQL nájdete tri hlavné tabuľky:
 
@@ -27,6 +29,10 @@ Zoznam krajov na Slovensku - https://sk.wikipedia.org/wiki/Zoznam_krajov_na_Slov
 Slovenská pošta:
 ================
 Poštové smerovacie čísla - http://www.posta.sk/stranky/postove-smerovacie-cisla
+
+Ďaľšie zdroje:
+===============
+http://www.sodbtn.sk/obce/nuts.php
 
 
 
@@ -61,3 +67,8 @@ Zoznam krajov na Slovensku - https://sk.wikipedia.org/wiki/Zoznam_krajov_na_Slov
 Slovenská pošta:
 ================
 Poštové smerovacie čísla - http://www.posta.sk/stranky/postove-smerovacie-cisla
+
+
+Other sources:
+===============
+http://www.sodbtn.sk/obce/nuts.php
