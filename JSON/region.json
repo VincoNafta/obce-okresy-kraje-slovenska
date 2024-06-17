@@ -1,0 +1,16 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"skola_obce"},
+{"type":"table","name":"region","database":"skola_obce","data":
+[
+{"region_nut":"SK032","teritory_nut":"SK03","name":"Banskobystrický kraj","shortcut":"BC","use":"1"},
+{"region_nut":"SK010","teritory_nut":"SK01","name":"Bratislavský kraj","shortcut":"BL","use":"1"},
+{"region_nut":"SK042","teritory_nut":"SK04","name":"Košický kraj","shortcut":"KI","use":"1"},
+{"region_nut":"SK023","teritory_nut":"SK02","name":"Nitriansky kraj","shortcut":"NI","use":"1"},
+{"region_nut":"SK041","teritory_nut":"SK04","name":"Prešovský kraj","shortcut":"PV","use":"1"},
+{"region_nut":"SK022","teritory_nut":"SK02","name":"Trenčiansky kraj","shortcut":"TC","use":"1"},
+{"region_nut":"SK021","teritory_nut":"SK02","name":"Trnavský kraj","shortcut":"TA","use":"1"},
+{"region_nut":"SK031","teritory_nut":"SK03","name":"Žilinský kraj","shortcut":"ZI","use":"1"}
+]
+}
+]

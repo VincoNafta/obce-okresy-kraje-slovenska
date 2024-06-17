@@ -1,0 +1,12 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"skola_obce"},
+{"type":"table","name":"teritory","database":"skola_obce","data":
+[
+{"teritory_nut":"SK01","name":"Bratislava"},
+{"teritory_nut":"SK02","name":"Západné Slovensko"},
+{"teritory_nut":"SK03","name":"Stredné Slovensko"},
+{"teritory_nut":"SK04","name":"Východné Slovensko"}
+]
+}
+]
